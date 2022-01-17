@@ -5,8 +5,10 @@ Use React.js functionality.  Use setState, object deconstruction, and string int
 # How to Run
 
 When correctly implemented, you will see a button on the screen:
+![Button](https://github.com/BabarBaig/wk12-react-intro/tree/main/img/a_button.jpg)
 
 When you press on it, you will see the following text on the screen:
+![Text](https://github.com/BabarBaig/wk12-react-intro/tree/main/img/b_text.jpg)
 
 
 ## Credit
