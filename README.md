@@ -15,7 +15,7 @@ Use React.js functionality.  Use setState, object deconstruction, and string int
 `    http-server`
 7. In a browser, navigate to local web page <http://localhost:8080>
 8. If all above steps are correctly followed, the web browser will display a button:
-9. <p><img src="img/a_button.jpg" width="300" title="Button" alt="Button"></p>
+9. <p><img src="img/a_button.jpg" width="250" title="Button" alt="Button"></p>
 10. When the button is clicked, the following text is displayed:
 11. <p><img src="img/b_text.jpg" width="700" title="Text" alt="Text"></p>
 
