@@ -1,6 +1,6 @@
 # wk12-react-intro
 
-Use React.js.  Use setState, object deconstruction, and string interpolation to create a string displayed in the browser.
+Use React.js functionality.  Use setState, object deconstruction, and string interpolation to create a string displayed in the browser.
 
 ## Credit
 
